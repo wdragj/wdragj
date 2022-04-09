@@ -3,7 +3,7 @@
 <br>
 
 <h2>📱 Contact 📱</h2>
-<a href="mailto:wdragj@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.linkedin.com/in/freddy-seo-00003a237"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:wdragj@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://www.linkedin.com/in/freddy-seo-00003a237" target="_blank"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h2><br>📖 Studying 📖</h2>
 <p><img height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"></p>
