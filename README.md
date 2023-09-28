@@ -9,6 +9,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wdragj&show_icons=true&locale=en&layout=compact" alt="wdragj" /></p>
 
+
+✨️ I can/have use(d)
+- **HTML/CSS/JS**
+- Java
+- Python
+- Node.js
+- Express.js
+- MySQL
+- SQL
+- C
+- Microservices Architecture
+
 🌱 I’m currently learning
 - **React.js**
 - **MongoDB**
@@ -16,4 +28,3 @@
 
 📫 How to reach me
 - **fseo@wisc.edu / wdragj@gmail.com**
-
