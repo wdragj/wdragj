@@ -7,6 +7,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wdragj&" alt="wdragj" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wdragj&show_icons=true&locale=en&layout=compact" alt="wdragj" /></p>
+
 🌱 I’m currently learning
 - **React.js**
 - **MongoDB**
@@ -15,6 +17,3 @@
 📫 How to reach me
 - **fseo@wisc.edu / wdragj@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wdragj" alt="wdragj" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wdragj&show_icons=true&locale=en&layout=compact" alt="wdragj" /></p>
