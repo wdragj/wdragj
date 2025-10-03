@@ -12,7 +12,7 @@
  
 I am from Seoul, South Korea, but I was born in Portland, Oregon.
 
-I am currently a senior at the University of Wisconsin-Madison, majoring in Computer Science.
+I am currently majoring in Computer Science at the University of Wisconsin-Madison.
 
  </div>
  
